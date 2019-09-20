@@ -1,0 +1,297 @@
+        body {
+        background: url("https://www.lesmachines-nantes.fr/wp-content/uploads/2018/01/home_01.jpg") fixed center;
+        background-size: cover;
+    }
+    
+    .navbar-b {
+        font-size: 70px;
+        color: white !important;
+        background-color: black;
+    }
+    
+    .name {
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    .nav-item {
+        font-size: 40px;
+        text-decoration: underline overline;
+        text-align: right;
+        font-style: italic;
+    }
+    
+    section {
+        text-align: center;
+        margin-top: 250px;
+        /* background-color: rgb(0, 0, 0)!important; */
+        display: block;
+    }
+    
+    #extract-culture {
+        text-align: center;
+        /* background-color: rgb(0, 0, 0)!important; */
+        display: block;
+    }
+    
+    .culture {
+        margin-top: 630px;
+    }
+    
+    .container-fluid-fluid h2 {
+        font-size: 60px;
+        color: seashell;
+        background: black;
+    }
+    
+    .card-title {
+        padding-top: 100px;
+        font-size: 40px;
+        color: red;
+    }
+    
+    .card-group {
+        font-size: 20px;
+        color: blue;
+    }
+    
+    .size {
+        width: 300px;
+        height: 200px;
+        margin: auto;
+    }
+    
+    .card img {
+        /* La transition s'applique à la fois sur la largeur et la hauteur, avec une durée d'une seconde. */
+        -webkit-transition: all 1s ease;
+        /* Safari et Chrome */
+        -moz-transition: all 1s ease;
+        /* Firefox */
+        -ms-transition: all 1s ease;
+        /* Internet Explorer 9 */
+        -o-transition: all 1s ease;
+        /* Opera */
+        transition: all 1s ease;
+        z
+    }
+    
+    .card:hover img {
+        /* L'image est grossie de 25% */
+        -webkit-transform: scale(1.5);
+        /* Safari et Chrome */
+        -moz-transform: scale(1.5);
+        /* Firefox */
+        -ms-transform: scale(1.5);
+        /* Internet Explorer 9 */
+        -o-transform: scale(1.5);
+        /* Opera */
+        transform: scale(1.5);
+    }
+    
+    input[type=text],
+    select,
+    textarea {
+        width: 100%;
+        /* Full width */
+        padding: 12px;
+        /* Some padding */
+        border: 1px solid #ccc;
+        /* Gray border */
+        border-radius: 4px;
+        /* Rounded borders */
+        box-sizing: border-box;
+        /* Make sure that padding and width stays in place */
+        margin-top: 6px;
+        /* Add a top margin */
+        margin-bottom: 16px;
+        /* Bottom margin */
+        resize: vertical
+        /* Allow the user to vertically resize the textarea (not horizontally) */
+    }
+    
+    .contact-map {
+        font-size: 50px;
+        width: 500px;
+        color: black;
+        background-color: #f2f2f2;
+        margin: auto;
+    }
+    
+    .map {
+        height: 100%;
+        width: 100%;
+        margin-bottom: 150px;
+        /* position: absolute;
+
+
+/* background-color: rgb(0, 0, 0)!important; */
+        display: block;
+    }
+    
+    #extract-culture {
+        text-align: center;
+        /* background-color: rgb(0, 0, 0)!important; */
+        display: block;
+    }
+    
+    .culture {
+        margin-top: 630px;
+    }
+    
+    .container-fluid-fluid h2 {
+        font-size: 60px;
+        color: seashell;
+        background: black;
+    }
+    
+    .card-title {
+        padding-top: 100px;
+        font-size: 40px;
+        color: red;
+    }
+    
+    .card-group {
+        font-size: 20px;
+        color: blue;
+    }
+    
+    .size {
+        width: 300px;
+        height: 200px;
+        margin: auto;
+    }
+    
+    .card img {
+        /* La transition s'applique à la fois sur la largeur et la hauteur, avec une durée d'une seconde. */
+        -webkit-transition: all 1s ease;
+        /* Safari et Chrome */
+        -moz-transition: all 1s ease;
+        /* Firefox */
+        -ms-transition: all 1s ease;
+        /* Internet Explorer 9 */
+        -o-transition: all 1s ease;
+        /* Opera */
+        transition: all 1s ease;
+        z
+    }
+    
+    .card:hover img {
+        /* L'image est grossie de 25% */
+        -webkit-transform: scale(1.5);
+        /* Safari et Chrome */
+        -moz-transform: scale(1.5);
+        /* Firefox */
+        -ms-transform: scale(1.5);
+        /* Internet Explorer 9 */
+        -o-transform: scale(1.5);
+        /* Opera */
+        transform: scale(1.5);
+    }
+    
+    input[type=text],
+    select,
+    textarea {
+        width: 100%;
+        /* Full width */
+        padding: 12px;
+        /* Some padding */
+        border: 1px solid #ccc;
+        /* Gray border */
+        border-radius: 4px;
+        /* Rounded borders */
+        box-sizing: border-box;
+        /* Make sure that padding and width stays in place */
+        margin-top: 6px;
+        /* Add a top margin */
+        margin-bottom: 16px;
+        /* Bottom margin */
+        resize: vertical
+        /* Allow the user to vertically resize the textarea (not horizontally) */
+    }
+    
+    .contact-map {
+        font-size: 50px;
+        width: 500px;
+        color: black;
+        background-color: #f2f2f2;
+        margin: auto;
+    }
+    
+    .map {
+        height: 100%;
+        width: 100%;
+        margin-bottom: 150px;
+        /* position: absolute;
+
+top: 0;
+
+margin-bottom: 50px;
+
+left: 0;
+
+right: 0; */
+    }
+    
+    .contact-title {
+        font-size: 50px;
+        color: black;
+        background: white;
+        margin-left: 190px;
+        margin-right: 190px;
+    }
+    /* Style the submit button with a specific background color etc */
+    
+    input[type=submit] {
+        background-color: #4CAF50;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    /* When moving the mouse over the submit button, add a darker green color */
+    
+    input[type=submit]:hover {
+        background-color: #45a049;
+    }
+    /* Add a background color and some padding around the form */
+    
+    .container {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+        top: 0;
+        margin-bottom: 50px;
+        left: 0;
+        right: 0;
+        */
+    }
+    
+    .contact-title {
+        font-size: 50px;
+        color: black;
+        background: white;
+        margin-left: 190px;
+        margin-right: 190px;
+    }
+    /* Style the submit button with a specific background color etc */
+    
+    input[type=submit] {
+        background-color: #4CAF50;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    /* When moving the mouse over the submit button, add a darker green color */
+    
+    input[type=submit]:hover {
+        background-color: #45a049;
+    }
+    /* Add a background color and some padding around the form */
+    
+    .container {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
